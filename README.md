@@ -5,7 +5,7 @@ Education is changing rapidly all around the world and have never had the magnif
 
 My project will serve as the seed to a grander medium to long term vision to change how we think about education.  While I will begin by looking directly at university-level education and post-graduation job searching via Coursera and LinkedIn, as a start, the same approach could potentially be applied to the K-12 level (e.g., to help places like [Acton Academy](https://www.actonacademy.org/), the tech-school/community college level (e.g., to help initiatives like the [New Collar Workforce Network](https://newcollarnetwork.com/), not to mention to many other MOOC platforms and bootcamp programs (like the [Data Incubator](www.thedataincubator.com)!). 
 
-The idea is this: create a google for MOOCs + career alignment; think “moocle,” but with a personalized twist that sites like [MOOC List](https://www.mooc-list.com/) do not have.  Parents, students, and educators alike need a place where they can go to figure out the best path forward. 
+The idea is this: create a google for MOOCs + career alignment; think “moocle,” but with a personalized twist that sites like [MOOC List](https://www.mooc-list.com/) do not have.  Parents, students, educators, and employers alike need a place where they can go to figure out the best path forward. 
 
 ## Research Question
 The research question that I want to answer is:  
