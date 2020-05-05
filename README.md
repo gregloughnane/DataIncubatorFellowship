@@ -33,7 +33,7 @@ It is also imperative that thse types of recommender-system educational programs
 My project while in the incubator will focus on a good first step to solving this problem, using two primary data sources:
 
 1) Coursera course data
-2) LinkedIn job and industry data (see 
+2) LinkedIn job and industry data
 
 First, I will scrape Coursera and LinkedIn for relevant course and job information in two areas that I'm intimately familiar with: advanced manufacturing and data science. Each of these meta-categories have many different subcategories (on both the jobs and education side, and they don't align particularly well) which are beyond the scope of this short pitch.
 
