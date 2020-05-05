@@ -51,15 +51,14 @@ Further, to make sure that I'm making this as relevant to my own life and the li
 ###  Final thoughts on Moving from Research & Development to Engineering (and, longer term, Production and Refinement??)
 I hope to ideate with Data Incubator instructors and fellowship cohort members to further develop and refine how exactly to break this down into measurable job titles across specific industries and regions of the US, but I'm certain that I can let the data guide my development and hyptotheses as I create my proof-of-concept in an appropriately bounded design space.  I will be sure to explicity state my assumptions at each step, so as to be able to come back to the narrowing points in the future if I ever to work on, build, manage, or oversee a similar and more expansive tool. 
 
-I will choose an industry and a job title (say Electrical/Electronic Manufacturing and Display Mechanical Engineer), then my program will develop the minimally-sufficient number of courses that you need to take to match the job description. 
+#### Phase I: R&D (~Weeks 1-4)
+I'd really like to do not only the R&D to get me to command line functionality, but to also do the D to move to Minimum Viable Product status.  
 
-### Developing an Interactive Demo Tool
-Need to create some sort of interactive tool and dashboard that pits supply (courses and certificates that can be received via MOOC offerings like those on Coursera) versus demand (Jobs available in particular markets, like those on LinkedIn).  Essentially, I want a recommender system that provides a education-process-flow; I’d like to do this in the form of a D3.js graph network (similar to https://youtu.be/Mae3uR9HSjQ) 
+#### Phase II: Product Demo Interactive Tool Dev (~Weeks 2-6)
+From there, I'd like to continue the D and put a shiny, sleek, interactive front end on it via D3.js (as discussed above).
 
+#### Phase III: Engineering and ML Ops (~Weeks 5-8)
+Once I have this, my focus will turn to the engineering and MLOps side of the equation.  I will use Allegro.ai's [open source TRAINS-server platform](https://github.com/allegroai/trains-server) to manage my machine learning and deep learning algorithms and results, so as to be able to track improvements and to manage my models as well as possible while my data is still relatively static.
 
- 
-
-
-intuitive dashboard-type approach 
-
-I will use Allegro.ai’s TRAINS-server platform to develop the plumbing necessary to not only manage my data, but also my machine learning model development and iterations. 
+#### Phase IV: Refinement (see Phase I-III) and Production Investigations (i.e., connection to live data)
+Time permitting, I will try to investigate the ease of and utility in connecting the plumbing provided by Allegro.ai's TRAINS-server platform to live data sources so that my model can update daily as LinkedIn changes.  This is where my data and software engineering skills will really be put to the test.
