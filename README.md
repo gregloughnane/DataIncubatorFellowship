@@ -10,7 +10,11 @@ The idea is this: create a google for MOOCs + career alignment; think “moocle,
 ## Research Question
 The research question that I want to answer is:  
 
-> Is there a clear path of least resistance and lowest cost/highest effectiveness (cost and effectiveness metrics TBD) that will allow a process flow chart diagram to be created and serve as an academic program of study, which will change over time, that leverages remote learning, and can be used by students, parents, educators, and employers alike to choose a locale, an industry, and a job title?
+> Is there a clear path of least resistance and lowest cost/highest effectiveness (cost and effectiveness metrics TBD) that will allow for a customized academic program of study, *aimed at a specific job title and locale*, capable of adapting to the rapidly expanding and changing job and  ed-tech marketplaces and, that leverages remote learning, and can be used by students, parents, educators, and employers alike to choose a locale, an industry, and a job title?
+
+Imagine if we could create custom process flow diagrams like [this one](https://mechanical.mines.edu/wp-content/uploads/sites/98/2019/07/BSME-Flowchart-2018-19.pdf), which is for a BSME @ the Colorado School of Mines.
+
+Even better, imagine if every young boy and girl and  interactive graph networks with many possible paths to choose to the same end result, which can be visualized similar to the D3.js network shown [here](https://youtu.be/Mae3uR9HSjQ) from a former Data Incubator alum, Eric Hoppmann, from a not entirely unrelated project.
 
 ### Example: Mechanical Engineering Jobs
 Take, for example, the mechanical engineer of today.  He might need to know much more than a classic mechanical engineering degree will teach him; this of course, depends on the type of job that he hopes to get.   
