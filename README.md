@@ -35,20 +35,30 @@ My project while in the incubator will focus on a good first step to solving thi
 1) Coursera course data
 2) LinkedIn job and industry data (see 
 
-First, I will scrape Coursera and LinkedIn for relevant courses in two areas that I'm intimately familiar with: advanced manufacturing and data science. Each of these have many subcategories, and some of them are described in my web-scraping demonstration notebook 
+First, I will scrape Coursera and LinkedIn for relevant course and job information in two areas that I'm intimately familiar with: advanced manufacturing and data science. Each of these meta-categories have many different subcategories (on both the jobs and education side, and they don't align particularly well) which are beyond the scope of this short pitch.
 
-LinkedIn for industry and job titles, and I will scrape Coursera to be able to recommend courses.
+Check out some very preliminary notebooks that I've put together below:
 
+1) Coursera Scraping Notebook
+2) LinkedIn Profile data analysis of the [LinkedIn Profiles Data Set](https://blog.thedataincubator.com/tag/data-sources/) provided by the Data Incubator and Thinkum.  *On the LinkedIn side, I will need to dig deeper into additional industries, locales, and job titles for additional richness*.  This is just to show that I will get it done.
 
+### Locales-of-Interest
+In order to make this project most relevant to me and my region, I will investigate jobs, locales, and companies where I've historically found myself and may potentially find myself.  I will analyze data from particular cities, including Raleigh, NC where I currently reside, as well as Austin, TX, which is a potential future home base, in addition to Dayton, OH, my former hometown of 15 years.  If I find myself taking part in one of the in-person programs, I will include the city in which I'm residing as well. 
 
-One way to capitulate; namely, given minimal constraints, I will choose an industry and a job title (say Electrical/Electronic Manufacturing and Display Mechanical Engineer), then my program will develop the minimally-sufficient number of courses that you need to take to match the job description. 
+### Industries and Job Titles
+Further, to make sure that I'm making this as relevant to my own life and the lives of those in my network as possible - so as to create maximum impact - I will focus on two broad categories of jobs; advanced manufacturing (especially 3D printing/ additive manufacturing), and data science (especially data scientist) roles.  
 
+###  Final thoughts on Moving from Research & Development to Engineering (and, longer term, Production and Refinement??)
+I hope to ideate with Data Incubator instructors and fellowship cohort members to further develop and refine how exactly to break this down into measurable job titles across specific industries and regions of the US, but I'm certain that I can let the data guide my development and hyptotheses as I create my proof-of-concept in an appropriately bounded design space.  I will be sure to explicity state my assumptions at each step, so as to be able to come back to the narrowing points in the future if I ever to work on, build, manage, or oversee a similar and more expansive tool. 
 
+I will choose an industry and a job title (say Electrical/Electronic Manufacturing and Display Mechanical Engineer), then my program will develop the minimally-sufficient number of courses that you need to take to match the job description. 
+
+### Developing an Interactive Demo Tool
 Need to create some sort of interactive tool and dashboard that pits supply (courses and certificates that can be received via MOOC offerings like those on Coursera) versus demand (Jobs available in particular markets, like those on LinkedIn).  Essentially, I want a recommender system that provides a education-process-flow; I’d like to do this in the form of a D3.js graph network (similar to https://youtu.be/Mae3uR9HSjQ) 
 
-In order to make this project most relevant to me and my region, I will investigate jobs, locales, and companies where I've historically found myself and may potentially find myself.   will analyze data from that particular city, and if not I will analyze both my current home base of Raleigh, NC; potential future home base of Austin, TX; along with my former hometown of Dayton, OH.  If I find myself taking part in the in-person program, I will include the city in which I'm residing as well. 
+
  
-Further, to make sure that I'm making this as relevant to my own life and the lives of those in my network as possible, so as to create maximum impact, I will focus on two broad categories of jobs; 3D printing (additive manufacturing), and data science roles.  I will need to work with Data Incubator instructors and fellowship cohort members to further develop and refine how exactly to break this down into measurable job titles in specific industries that will span across regions, but I'm certain that I can create a proof-of-concept as long as I appropriately bound the design space that I'm looking at and explicity state my assumptions. 
+
 
 intuitive dashboard-type approach 
 
