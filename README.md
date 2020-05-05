@@ -39,7 +39,8 @@ First, I will scrape Coursera and LinkedIn for relevant course and job informati
 
 Check out some very preliminary notebooks that I've put together below:
 
-1)[Coursera Scraping Notebook](https://github.com/gregloughnane/DataIncubatorFellowship/blob/master/Coursera_Scrape_Loughnane.ipynb) *Note that there are additional ideas on where to take this at the bottom of this ipynb*
+1) [Coursera Scraping Notebook](https://github.com/gregloughnane/DataIncubatorFellowship/blob/master/Coursera_Scrape_Loughnane.ipynb) *Note that there are additional ideas on where to take this at the bottom of this ipynb*
+
 2) LinkedIn Profile data analysis of the [LinkedIn Profiles Data Set](https://blog.thedataincubator.com/tag/data-sources/) provided by the Data Incubator and Thinkum.  *On the LinkedIn side, I will need to dig deeper into additional industries, locales, and job titles for additional richness*.  This is just to show that I will get it done.
 
 ### Locales-of-Interest
