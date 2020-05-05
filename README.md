@@ -65,7 +65,8 @@ Once I have this, my focus will turn to the engineering and MLOps side of the eq
 Time permitting, I will try to investigate the ease of and utility in connecting the plumbing provided by Allegro.ai's TRAINS-server platform to live data sources so that my model can update daily as LinkedIn changes.  This is where my data and software engineering skills will really be put to the test.
 
 -----------------------------------------------------------------------------------------------------------------------------
-As someone who has been adjunct teaching engineering courses at universities since 2011, and who has as a result intimately kept tabs on the state of education in the last decade I'd like to sign off here with some words from a very wise man.
+As someone who has been adjunct teaching engineering courses at universities since 2011, and who has, as a result intimately kept tabs on the state of education in the last decade I'd like to sign off here with some words from a very wise man.
 
 > “The real University, he said, has no specific location. It owns no property, pays no salaries and receives no material dues. The real University is a state of mind. It is that great heritage of rational thought that has been brought down to us through the centuries and which does not exist at any specific location. It's a state of mind which is regenerated throughout the centuries by a body of people who traditionally carry the title of professor, but even that title is not part of the real University. The real University is nothing less than the continuing body of reason itself.”
+
 ― Robert Pirsig, Zen and the Art of Motorcycle Maintainance
