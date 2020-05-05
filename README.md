@@ -14,21 +14,35 @@ The research question that I want to answer is:
 
 Imagine if we could create custom process flow diagrams like [this one](https://mechanical.mines.edu/wp-content/uploads/sites/98/2019/07/BSME-Flowchart-2018-19.pdf), which is for a BSME @ the Colorado School of Mines.
 
-Even better, imagine if every young boy and girl and  interactive graph networks with many possible paths to choose to the same end result, which can be visualized similar to the D3.js network shown [here](https://youtu.be/Mae3uR9HSjQ) from a former Data Incubator alum, Eric Hoppmann, from a not entirely unrelated project.
+Even better, imagine if every young boy and girl could spend their time in school building up the data that would generate a personalized interactive graph network with many possible paths that could be chosen which ultimately led to where they wanted to be.  Visualize this possibility as being similar to the D3.js network shown [here](https://youtu.be/Mae3uR9HSjQ) from a former Data Incubator alum, Eric Hoppmann, from a not entirely unrelated project interested in tracking academic publications.
 
-### Example: Mechanical Engineering Jobs
-Take, for example, the mechanical engineer of today.  He might need to know much more than a classic mechanical engineering degree will teach him; this of course, depends on the type of job that he hopes to get.   
+### Example: What does it mean to be a Mechanical Engineer?
+Consider, as an example, the mechanical engineer of today.  He might need to know much more than a classic mechanical engineering degree will teach him; this of course, depends on the type of job that he hopes to get.   
 
-A [mechanical engineer at Apple](https://www.linkedin.com/jobs/search/?currentJobId=1843228084&geoId=106758460&keywords=display%20mechanical%20engineer&location=Cupertino%2C%20California%2C%20United%20States), for example, needs to have not only classical ME skills like CAD and tolerancing, but also needs a deep understanding of product development across multiple CAD platforms, multi-physics simulation, product and experimental design, and optimization.  The successful candidate will also be able to demonstrate a systems-level understanding of, for example, an LCD module for MAC displays.  For this he or she must be well-versed in certain aspects of electrical engineering, computer engineering, and computer science that are important for consumer electronics design. 
+A [mechanical engineer at Apple](https://www.linkedin.com/jobs/search/?currentJobId=1843228084&geoId=106758460&keywords=display%20mechanical%20engineer&location=Cupertino%2C%20California%2C%20United%20States), for example, needs to have not only classical ME skills like CAD and tolerancing, but also needs a deep understanding of product development across multiple CAD platforms, multi-physics simulation, product and experimental design, and optimization.  The successful candidate will also be able to demonstrate a systems-level understanding of, as in this example, an LCD module for MAC displays.  For this he or she must also be well-versed in certain aspects of electrical engineering, computer engineering, and computer science that are important for consumer electronics design.  These skills constitute a knowledge base that every university in the world is completely unprepared to provide a student with.  These are the jobs of tomorrow.  
 
-However, a mechanical engineer down the street at your local machine shop might not need nearly the level of expertise in areas related to electronics, computer engineering and computer science, but might need to be well-versed in operations methodologies from a business perspective, and in emerging technology areas that might affect his job; for example, like 3D printing or robotic automation. 
+That being said, a mechanical engineer down the street at your local machine shop might not need nearly the level of expertise in areas related to electronics, computer engineering and computer science, but might need to be well-versed in operations methodologies from a business perspective, and in emerging technology areas that might affect his job; for example, like 3D printing or robotic automation.  This is only true, of course, if he wants to help his machine shop stay competitive and in business, and to protect his own livelihood in the medium to long term. 
 
-There are no programs at universities that will force a student to go through the process of learning the necessary skills to be able to complete either one of these jobs.  As the world becomes more complex, we need better tools to help students who don’t have access to multi-faceted internship and co-op programs to be able to compete, remotely.  We must try to synthesize what a young person needs to aim at to the minimally-sufficient amount of complexity, for the student, at that point in their career trajectory.  We must also connect these recommendations to data sources that update with emerging markets and global economic shifts (i.e., COVID-19).
+There very few university-level programs (if any) that guide a student through the process of learning the necessary skills to be able to complete either one of these jobs.  Historically, we've always relied on the actual businesses to fill in the gaps in understanding for all students via direct experience.  
 
-## How will I do it?
-My project will focus on a good first step to solving this problem; namely, given two constraints, that I will choose an industry and a job title (say Electrical/Electronic Manufacturing and Display Mechanical Engineer), then my program will develop the minimally-sufficient number of courses that you need to take to match the job description. 
+As the world becomes more complex, connected, and remote, we must create better tools to help students who don’t have access to prestigious universities in high-tech urban areas that also offer multi-faceted internship and co-op programs to be able to compete.  This will push everyone forward.  To accomplish this, We must try to synthesize what a young person *really* needs so that they can aim single-mindedly at a minimally-sufficient amount of complexity; at least to start contributing, get a foot in the door, and begin to deliver value to themselves, their family, their community, and their employer.  
 
-I will scrape LinkedIn for industry and job titles, and I will scrape Coursera to be able to recommend courses.  I also aim at developing a process-flow diagram for the student, so that they have something to aim at. 
+It is also imperative that thse types of recommender-system educational programs are connected to constantly-changing data sources that are representative of our emerging market realities, which sometimes can be subjected to massive, global-scale economic shifts (i.e., COVID-19).
+
+## OK Great - So How Exactly Will I Do This?
+My project while in the incubator will focus on a good first step to solving this problem, using two primary data sources:
+
+1) Coursera course data
+2) LinkedIn job and industry data (see 
+
+First, I will scrape Coursera and LinkedIn for relevant courses in two areas that I'm intimately familiar with: advanced manufacturing and data science. Each of these have many subcategories, and some of them are described in my web-scraping demonstration notebook 
+
+LinkedIn for industry and job titles, and I will scrape Coursera to be able to recommend courses.
+
+
+
+One way to capitulate; namely, given minimal constraints, I will choose an industry and a job title (say Electrical/Electronic Manufacturing and Display Mechanical Engineer), then my program will develop the minimally-sufficient number of courses that you need to take to match the job description. 
+
 
 Need to create some sort of interactive tool and dashboard that pits supply (courses and certificates that can be received via MOOC offerings like those on Coursera) versus demand (Jobs available in particular markets, like those on LinkedIn).  Essentially, I want a recommender system that provides a education-process-flow; I’d like to do this in the form of a D3.js graph network (similar to https://youtu.be/Mae3uR9HSjQ) 
 
