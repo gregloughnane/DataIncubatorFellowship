@@ -41,7 +41,7 @@ Check out some very preliminary notebooks that I've put together below:
 
 1) [Coursera Scraping Notebook](https://github.com/gregloughnane/DataIncubatorFellowship/blob/master/Coursera_Scrape_Loughnane.ipynb) *Note that there are additional ideas on where to take this at the bottom of this ipynb*
 
-2) LinkedIn Profile data analysis of the [LinkedIn Profiles Data Set](https://blog.thedataincubator.com/tag/data-sources/) provided by the Data Incubator and Thinkum.  *On the LinkedIn side, I will need to dig deeper into additional industries, locales, and job titles for additional richness*.  This is just to show that I will get it done.
+2) [LinkedIn Profile data analysis](https://github.com/gregloughnane/DataIncubatorFellowship/blob/master/LinkedIn_Data_Analysis_Loughnane.ipynb) of the [LinkedIn Profiles Data Set](https://blog.thedataincubator.com/tag/data-sources/) provided by the Data Incubator and Thinkum.  *On the LinkedIn side, I will need to dig deeper into additional industries, locales, and job titles for additional richness*.  This is just to show that I will get it done.
 
 ### Locales-of-Interest
 In order to make this project most relevant to me and my region, I will investigate jobs, locales, and companies where I've historically found myself and may potentially find myself.  I will analyze data from particular cities, including Raleigh, NC where I currently reside, as well as Austin, TX, which is a potential future home base, in addition to Dayton, OH, my former hometown of 15 years.  If I find myself taking part in one of the in-person programs, I will include the city in which I'm residing as well. 
