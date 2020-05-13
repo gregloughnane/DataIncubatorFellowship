@@ -1,5 +1,5 @@
 # Data Incubator Fellowship Capstone Project Pitch
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/XqaqXImVtBw)
+[![Click To Watch The Video!](images/FutureOfEdTechAdvManufacturing-Final.jpg)](https://youtu.be/XqaqXImVtBw)
 
 ## Introduction
 Education is changing rapidly all around the world and have never had the magnifying glass on it quite like in the midst of the COVID-19 pandemic.  This Fall, for example, what will students, parents, faculty, and university administration demand of their employees and customers?  Will classes be held on site or remote?  This is a great opportunity for Massive Open Online Courses (MOOCs) to reach a broader audience.  For this to happen, though, we need the right tools to allow the average American to take a good hard look at these alternative forms of education. 
